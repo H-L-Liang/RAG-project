@@ -1,0 +1,10 @@
+python ==3.11.15
+langchain==1.2.14
+langchain-core==1.2.24
+langchain-community==0.4.1
+langchain-chroma==1.1.0
+langchain-text-splitters==1.1.1
+chromadb==1.5.5
+dashscope==1.25.15
+streamlit==1.56.0
+openai==2.30.0
